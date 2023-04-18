@@ -22,9 +22,13 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ![](./src/assets/images/screenshot2.jpg)
 
+![](./src/assets/images/screenshot3.jpg)
+
+![](./src/assets/images/screenshot4.jpg)
+
 ### Links
 
-Solution URL: [https://seismicman.github.io/02-product-preview-card-component/](https://seismicman.github.io/02-product-preview-card-component/)
+Solution URL: [https://seismicman.github.io/05-Interactive-Rating-Component/](https://seismicman.github.io/05-Interactive-Rating-Component/)
 
 ## My process
 
