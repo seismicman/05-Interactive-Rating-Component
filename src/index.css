@@ -23,7 +23,7 @@ html {
 }
 
 body {
-  background-color: black;
+  background-color: hsla(216, 12%, 8%, 0.9);
   font-family: "Overpass", serif;
   min-height: 100vh;
   display: flex;
@@ -33,7 +33,7 @@ body {
 
 .card {
   border-radius: 2rem;
-  background-color: var(--Very-Dark-Blue);
+  background-color: hsla(216, 12%, 8%, 0.8);
   padding: 2rem;
 }
 
@@ -92,6 +92,7 @@ body {
   width: 2.5rem;
   height: 2.5rem;
   border-radius: 50%;
+  border: 0;
   background-color: var(--Dark-Blue);
   color: var(--Medium-Grey);
   border: none;
@@ -100,13 +101,14 @@ body {
 .btn-circle:hover {
   background-color: var(--Orange);
   color: var(--White);
+  border: 0;
   cursor: pointer;
 }
 
 .btn-circle:focus {
   color: var(--White);
   background-color: var(--Medium-Grey);
-  border: none;
+  border: 0;
   font-weight: 500;
 }
 
@@ -116,6 +118,7 @@ body {
   width: 100%;
   background-color: var(--Orange);
   padding: 1rem;
+  border: 0;
   border-radius: 1rem;
   color: var(--White);
 }
@@ -123,7 +126,7 @@ body {
 .btn-submit:hover {
   color: var(--Orange);
   background-color: var(--Light-Grey);
-  border: none;
+  border: 0;
   font-weight: 500;
   cursor: pointer;
 }
